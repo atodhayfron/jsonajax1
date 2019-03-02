@@ -1,0 +1,5 @@
+[
+{"name":"moosee","species":"cat","foods":{"likes":["tuna","ham"],"dislikes":["rice","beans"]}},
+{"name":"barky","species":"dog","foods":{"likes":["bones","carrots"],"dislikes":["tuna"]}},
+{"name":"mickie","species":"cat","foods":{"likes":["jollof"],"dislikes":["banku","fufu"]}}
+]
